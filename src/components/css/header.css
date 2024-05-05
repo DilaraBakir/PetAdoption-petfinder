@@ -1,0 +1,9 @@
+h1 {
+    font-family: 'Chewy', cursive;
+    font-size: 24px; 
+    font-weight: bold;
+}
+
+.navbar-custom {
+    background-color: rgba(28, 30, 58, 1);
+}

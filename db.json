@@ -1,0 +1,186 @@
+{
+  "adoptions": [
+    {
+      "firstName": "sdafads",
+      "middleName": "asdfasdf",
+      "lastName": "asdfasf",
+      "hasFencedYard": true,
+      "hasChildren": false,
+      "hasOtherPets": false,
+      "phoneNumber": "",
+      "email": "asdfas@sdafds.com",
+      "aboutSelf": "adsfas",
+      "id": 1
+    },
+    {
+      "firstName": "qwe",
+      "middleName": "qasd",
+      "lastName": "asdfas",
+      "hasFencedYard": false,
+      "hasChildren": true,
+      "hasOtherPets": true,
+      "phoneNumber": "",
+      "email": "asdf@osdf.com",
+      "aboutSelf": "sdidiasd",
+      "id": 2
+    },
+    {
+      "firstName": "Jonathan",
+      "middleName": "ASDF",
+      "lastName": "Hop",
+      "hasFencedYard": false,
+      "hasChildren": true,
+      "hasOtherPets": true,
+      "phoneNumber": "123-456-7890",
+      "email": "info@codingyourcareer.com",
+      "aboutSelf": "Me, I'm me all day long",
+      "id": 3
+    },
+    {
+      "firstName": "Jonathan",
+      "middleName": "ASDF",
+      "lastName": "Hop",
+      "hasFencedYard": false,
+      "hasChildren": true,
+      "hasOtherPets": true,
+      "phoneNumber": "123-456-7890",
+      "email": "info@codingyourcareer.com",
+      "aboutSelf": "Me, I'm me all day long",
+      "id": 4
+    },
+    {
+      "firstName": "Dilara",
+      "middleName": "fjfkdl",
+      "lastName": "Bakır",
+      "hasFencedYard": false,
+      "hasChildren": true,
+      "hasOtherPets": true,
+      "phoneNumber": "123-456-7890",
+      "email": "dilaraa.bakir@gmail.com",
+      "aboutSelf": "just coding",
+      "id": 5
+    },
+    {
+      "firstName": "Dilara",
+      "middleName": "fjkdl",
+      "lastName": "Bakır",
+      "hasFencedYard": true,
+      "hasChildren": false,
+      "hasOtherPets": false,
+      "phoneNumber": "123-456-7890",
+      "email": "dilara.bakir@std.ankaramedipol.edu.tr",
+      "aboutSelf": "just cofding",
+      "id": 6
+    }
+  ],
+  "pets": [
+    {
+      "id": 1,
+      "name": "Max",
+      "animalType": "dog",
+      "age": 2,
+      "description": "Max is a friendly dog. He loves to play fetch and is great with kids.",
+      "adopted": false,
+      "image": "dog1.jpg",
+      "breed": "Labrador retriever mix",
+      "isBoy": true,
+      "isAdopted": false
+    },
+    {
+      "id": 2,
+      "name": "Bella",
+      "animalType": "dog",
+      "age": 4,
+      "description": "Bella is a well-behaved dog. She enjoys long walks and belly rubs.",
+      "adopted": false,
+      "image": "dog2.jpg",
+      "breed": "Pitbull",
+      "isBoy": false,
+      "isAdopted": false
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "animalType": "dog",
+      "age": 3,
+      "description": "Charlie is a cuddly dog. He loves nap time and is friendly with other dogs.",
+      "adopted": false,
+      "image": "dog3.jpg",
+      "breed": "Terrier mix",
+      "isBoy": true,
+      "isAdopted": false
+    },
+    {
+      "id": 4,
+      "name": "Lucy",
+      "animalType": "dog",
+      "age": 1,
+      "description": "Lucy is a playful puppy. She's still learning commands but is eager to please.",
+      "adopted": false,
+      "image": "dog4.jpg",
+      "breed": "Dachsund mix",
+      "isBoy": false,
+      "isAdopted": false
+    },
+    {
+      "id": 5,
+      "name": "Simba",
+      "animalType": "cat",
+      "age": 5,
+      "description": "Simba is an independent cat. He's low maintenance and likes quiet homes.",
+      "adopted": false,
+      "image": "cat1.jpg",
+      "breed": "Calico",
+      "isBoy": true,
+      "isAdopted": false
+    },
+    {
+      "id": 6,
+      "name": "Milo",
+      "animalType": "cat",
+      "age": 3,
+      "description": "Milo is a charming cat. He likes playing with toys and climbing on cat trees.",
+      "adopted": false,
+      "image": "cat2.jpg",
+      "breed": "Tabby",
+      "isBoy": true,
+      "isAdopted": false
+    },
+    {
+      "id": 7,
+      "name": "Tiger",
+      "animalType": "cat",
+      "age": 2,
+      "description": "Tiger is a fun-loving cat. He's curious and loves exploring around the house.",
+      "adopted": false,
+      "image": "cat3.jpg",
+      "breed": "Minx",
+      "isBoy": true,
+      "isAdopted": false
+    },
+    {
+      "id": 8,
+      "name": "Luna",
+      "animalType": "cat",
+      "age": 4,
+      "description": "Luna is a sweet cat. She's affectionate and loves to cuddle on the couch.",
+      "adopted": false,
+      "image": "cat4.jpg",
+      "breed": "Calico",
+      "isBoy": false,
+      "isAdopted": false
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "pass1"
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "password": "pass2"
+    }
+  ]
+}

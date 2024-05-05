@@ -1,0 +1,11 @@
+/* PetList.css */
+
+.PetList {
+    margin: 20px 0; /* Add some margin for spacing */
+}
+
+/* Optional: Apply hover effect to PetCard */
+.PetCard:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transform: translateY(-5px);
+}

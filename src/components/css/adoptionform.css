@@ -1,0 +1,6 @@
+/* Add this to your existing CSS file or create a new one */
+
+.font-weight-bold{
+    font-weight: bold;
+    text-align: left !important;
+}
